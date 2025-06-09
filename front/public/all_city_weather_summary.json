@@ -1,0 +1,506 @@
+[
+  {
+    "city": "Brisbane",
+    "year": 2018,
+    "season": "summer",
+    "avg_temp": 15.68,
+    "recommend_outfit": "패딩, 두꺼운 코트, 긴 바지"
+  },
+  {
+    "city": "Brisbane",
+    "year": 2018,
+    "season": "winter",
+    "avg_temp": 25.24,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Brisbane",
+    "year": 2019,
+    "season": "summer",
+    "avg_temp": 16.01,
+    "recommend_outfit": "패딩, 두꺼운 코트, 긴 바지"
+  },
+  {
+    "city": "Brisbane",
+    "year": 2019,
+    "season": "winter",
+    "avg_temp": 25.3,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Brisbane",
+    "year": 2020,
+    "season": "summer",
+    "avg_temp": 15.95,
+    "recommend_outfit": "패딩, 두꺼운 코트, 긴 바지"
+  },
+  {
+    "city": "Brisbane",
+    "year": 2020,
+    "season": "winter",
+    "avg_temp": 23.96,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Brisbane",
+    "year": 2021,
+    "season": "summer",
+    "avg_temp": 14.89,
+    "recommend_outfit": "패딩, 두꺼운 코트, 긴 바지"
+  },
+  {
+    "city": "Brisbane",
+    "year": 2021,
+    "season": "winter",
+    "avg_temp": 23.08,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Brisbane",
+    "year": 2022,
+    "season": "summer",
+    "avg_temp": 13.94,
+    "recommend_outfit": "패딩, 두꺼운 코트, 긴 바지"
+  },
+  {
+    "city": "Brisbane",
+    "year": 2022,
+    "season": "winter",
+    "avg_temp": 23.02,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Brisbane",
+    "year": 2023,
+    "season": "summer",
+    "avg_temp": 15.81,
+    "recommend_outfit": "패딩, 두꺼운 코트, 긴 바지"
+  },
+  {
+    "city": "Brisbane",
+    "year": 2023,
+    "season": "winter",
+    "avg_temp": 24.91,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Cebu",
+    "year": 2018,
+    "season": "summer",
+    "avg_temp": 28.66,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Cebu",
+    "year": 2018,
+    "season": "winter",
+    "avg_temp": 26.89,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Cebu",
+    "year": 2019,
+    "season": "summer",
+    "avg_temp": 28.97,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Cebu",
+    "year": 2019,
+    "season": "winter",
+    "avg_temp": 27.37,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Cebu",
+    "year": 2020,
+    "season": "summer",
+    "avg_temp": 28.69,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Cebu",
+    "year": 2020,
+    "season": "winter",
+    "avg_temp": 27.24,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Cebu",
+    "year": 2021,
+    "season": "summer",
+    "avg_temp": 28.63,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Cebu",
+    "year": 2021,
+    "season": "winter",
+    "avg_temp": 27.4,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Cebu",
+    "year": 2022,
+    "season": "summer",
+    "avg_temp": 28.43,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Cebu",
+    "year": 2022,
+    "season": "winter",
+    "avg_temp": 26.96,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Cebu",
+    "year": 2023,
+    "season": "summer",
+    "avg_temp": 28.76,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Cebu",
+    "year": 2023,
+    "season": "winter",
+    "avg_temp": 28.4,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Danang",
+    "year": 2018,
+    "season": "summer",
+    "avg_temp": 30.07,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Danang",
+    "year": 2018,
+    "season": "winter",
+    "avg_temp": 23.9,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Danang",
+    "year": 2019,
+    "season": "summer",
+    "avg_temp": 31.0,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Danang",
+    "year": 2019,
+    "season": "winter",
+    "avg_temp": 23.49,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Danang",
+    "year": 2020,
+    "season": "summer",
+    "avg_temp": 30.09,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Danang",
+    "year": 2020,
+    "season": "winter",
+    "avg_temp": 21.73,
+    "recommend_outfit": "긴팔, 얇은 가디건, 청바지"
+  },
+  {
+    "city": "Danang",
+    "year": 2021,
+    "season": "summer",
+    "avg_temp": 31.11,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Danang",
+    "year": 2021,
+    "season": "winter",
+    "avg_temp": 22.67,
+    "recommend_outfit": "긴팔, 얇은 가디건, 청바지"
+  },
+  {
+    "city": "Danang",
+    "year": 2022,
+    "season": "summer",
+    "avg_temp": 29.69,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Danang",
+    "year": 2022,
+    "season": "winter",
+    "avg_temp": 22.17,
+    "recommend_outfit": "긴팔, 얇은 가디건, 청바지"
+  },
+  {
+    "city": "Danang",
+    "year": 2023,
+    "season": "summer",
+    "avg_temp": 30.39,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Danang",
+    "year": 2023,
+    "season": "winter",
+    "avg_temp": 23.7,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Kyoto",
+    "year": 2018,
+    "season": "summer",
+    "avg_temp": 27.55,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Kyoto",
+    "year": 2018,
+    "season": "winter",
+    "avg_temp": 6.63,
+    "recommend_outfit": "패딩, 두꺼운 코트, 긴 바지"
+  },
+  {
+    "city": "Kyoto",
+    "year": 2019,
+    "season": "summer",
+    "avg_temp": 26.33,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Kyoto",
+    "year": 2019,
+    "season": "winter",
+    "avg_temp": 7.52,
+    "recommend_outfit": "패딩, 두꺼운 코트, 긴 바지"
+  },
+  {
+    "city": "Kyoto",
+    "year": 2020,
+    "season": "summer",
+    "avg_temp": 26.97,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Kyoto",
+    "year": 2020,
+    "season": "winter",
+    "avg_temp": 6.71,
+    "recommend_outfit": "패딩, 두꺼운 코트, 긴 바지"
+  },
+  {
+    "city": "Kyoto",
+    "year": 2021,
+    "season": "summer",
+    "avg_temp": 26.42,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Kyoto",
+    "year": 2021,
+    "season": "winter",
+    "avg_temp": 5.25,
+    "recommend_outfit": "패딩, 두꺼운 코트, 긴 바지"
+  },
+  {
+    "city": "Kyoto",
+    "year": 2022,
+    "season": "summer",
+    "avg_temp": 27.13,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Kyoto",
+    "year": 2022,
+    "season": "winter",
+    "avg_temp": 5.8,
+    "recommend_outfit": "패딩, 두꺼운 코트, 긴 바지"
+  },
+  {
+    "city": "Kyoto",
+    "year": 2023,
+    "season": "summer",
+    "avg_temp": 27.1,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Kyoto",
+    "year": 2023,
+    "season": "winter",
+    "avg_temp": 8.12,
+    "recommend_outfit": "패딩, 두꺼운 코트, 긴 바지"
+  },
+  {
+    "city": "Sydney",
+    "year": 2018,
+    "season": "summer",
+    "avg_temp": 13.55,
+    "recommend_outfit": "패딩, 두꺼운 코트, 긴 바지"
+  },
+  {
+    "city": "Sydney",
+    "year": 2018,
+    "season": "winter",
+    "avg_temp": 23.58,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Sydney",
+    "year": 2019,
+    "season": "summer",
+    "avg_temp": 13.81,
+    "recommend_outfit": "패딩, 두꺼운 코트, 긴 바지"
+  },
+  {
+    "city": "Sydney",
+    "year": 2019,
+    "season": "winter",
+    "avg_temp": 23.06,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Sydney",
+    "year": 2020,
+    "season": "summer",
+    "avg_temp": 13.55,
+    "recommend_outfit": "패딩, 두꺼운 코트, 긴 바지"
+  },
+  {
+    "city": "Sydney",
+    "year": 2020,
+    "season": "winter",
+    "avg_temp": 22.08,
+    "recommend_outfit": "긴팔, 얇은 가디건, 청바지"
+  },
+  {
+    "city": "Sydney",
+    "year": 2021,
+    "season": "summer",
+    "avg_temp": 13.55,
+    "recommend_outfit": "패딩, 두꺼운 코트, 긴 바지"
+  },
+  {
+    "city": "Sydney",
+    "year": 2021,
+    "season": "winter",
+    "avg_temp": 22.27,
+    "recommend_outfit": "긴팔, 얇은 가디건, 청바지"
+  },
+  {
+    "city": "Sydney",
+    "year": 2022,
+    "season": "summer",
+    "avg_temp": 13.29,
+    "recommend_outfit": "패딩, 두꺼운 코트, 긴 바지"
+  },
+  {
+    "city": "Sydney",
+    "year": 2022,
+    "season": "winter",
+    "avg_temp": 21.82,
+    "recommend_outfit": "긴팔, 얇은 가디건, 청바지"
+  },
+  {
+    "city": "Sydney",
+    "year": 2023,
+    "season": "summer",
+    "avg_temp": 14.24,
+    "recommend_outfit": "패딩, 두꺼운 코트, 긴 바지"
+  },
+  {
+    "city": "Sydney",
+    "year": 2023,
+    "season": "winter",
+    "avg_temp": 22.67,
+    "recommend_outfit": "긴팔, 얇은 가디건, 청바지"
+  },
+  {
+    "city": "Tokyo",
+    "year": 2018,
+    "season": "summer",
+    "avg_temp": 26.1,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Tokyo",
+    "year": 2018,
+    "season": "winter",
+    "avg_temp": 6.84,
+    "recommend_outfit": "패딩, 두꺼운 코트, 긴 바지"
+  },
+  {
+    "city": "Tokyo",
+    "year": 2019,
+    "season": "summer",
+    "avg_temp": 24.59,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Tokyo",
+    "year": 2019,
+    "season": "winter",
+    "avg_temp": 7.75,
+    "recommend_outfit": "패딩, 두꺼운 코트, 긴 바지"
+  },
+  {
+    "city": "Tokyo",
+    "year": 2020,
+    "season": "summer",
+    "avg_temp": 25.39,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Tokyo",
+    "year": 2020,
+    "season": "winter",
+    "avg_temp": 6.89,
+    "recommend_outfit": "패딩, 두꺼운 코트, 긴 바지"
+  },
+  {
+    "city": "Tokyo",
+    "year": 2021,
+    "season": "summer",
+    "avg_temp": 25.16,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Tokyo",
+    "year": 2021,
+    "season": "winter",
+    "avg_temp": 5.84,
+    "recommend_outfit": "패딩, 두꺼운 코트, 긴 바지"
+  },
+  {
+    "city": "Tokyo",
+    "year": 2022,
+    "season": "summer",
+    "avg_temp": 25.82,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Tokyo",
+    "year": 2022,
+    "season": "winter",
+    "avg_temp": 6.64,
+    "recommend_outfit": "패딩, 두꺼운 코트, 긴 바지"
+  },
+  {
+    "city": "Tokyo",
+    "year": 2023,
+    "season": "summer",
+    "avg_temp": 26.9,
+    "recommend_outfit": "반팔, 얇은 긴팔, 얇은 긴 바지 or 반바지"
+  },
+  {
+    "city": "Tokyo",
+    "year": 2023,
+    "season": "winter",
+    "avg_temp": 9.19,
+    "recommend_outfit": "패딩, 두꺼운 코트, 긴 바지"
+  }
+]
