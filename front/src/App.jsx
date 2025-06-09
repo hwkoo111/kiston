@@ -1,11 +1,11 @@
+// App.jsx
+import "./App.css";
 import WeatherResultPage from "./components/WeatherResultPage";
 
-function App() {
+export default function App() {
   return (
-    <div className="min-h-screen bg-gradient-to-tr from-slate-50 to-slate-200">
+    <div className="app-root-bg">
       <WeatherResultPage />
     </div>
   );
 }
-
-export default App;
